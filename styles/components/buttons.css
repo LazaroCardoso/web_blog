@@ -1,0 +1,39 @@
+.button {
+    background-color: #FF6464;
+    text-align: center;
+    width: 208px;
+    height: 47px;
+    border-radius: 2px;
+    position: absolute;
+    margin: 0 103px 75px 103px;
+}
+
+.button h1 {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 59px;
+}
+
+.button__year {
+    margin-left: 18px;
+    background-color: #142850;
+    color: white;
+    border-radius: 25px;
+    border: 0;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.button__web {
+ margin-left: 10px;
+ background-color: transparent;
+ border: 0;
+ color: #8695A4;
+ font-size: 16px;
+ font-weight: 400;
+}

@@ -1,0 +1,16 @@
+p, h1, h2, h3, span, strong {
+    font-family: 'Heebo', Arial, Helvetica, sans-serif;
+}
+
+
+.line {
+    width: 90%;
+}
+
+.credits {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    padding-top: 26px;
+}

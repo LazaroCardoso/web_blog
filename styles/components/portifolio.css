@@ -1,0 +1,26 @@
+.portifolio {
+}
+
+.portifolio img {
+    margin: 0 18px 0 18px;
+}
+
+.portifolio button:first-child {
+    border-radius: 50px;
+}
+
+.portifolio__title {
+    font-size: 18px;
+    padding: 30px;
+    text-align: center;
+}
+
+.portifolio__title--big {
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.portifolio__paragraph {
+    margin: 18px;
+}
